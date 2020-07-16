@@ -1,0 +1,202 @@
+2020-07-16 15:27:09 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fb163a28340; archive(resolved)='<IDEArchive: 0x7fb166563e80>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fb163a28340; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fb161484540; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb1647cf620; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb163d9d7a0; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb162ae5040; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb16400bc70; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb164008fa0; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb1606b21f0; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb1645df560; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fb182e84dd0; teamID='AJLMAG95WU', teamName='Aref Tarrah', teamType='Individual', username='alireza12t.developer@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fb163da5aa0; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='(null)'>
+	<IDEDistributionContext: 0x7fb1633e0230; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fb161b59b90>', team='(null)'>
+	<IDEDistributionContext: 0x7fb1645ed510; archive = '<IDEArchive: 0x7fb166563e80>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fb163a28340>
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionCopyItemStep
+2020-07-16 15:27:09 +0000  Running /usr/bin/ditto '-V' '/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app'
+2020-07-16 15:27:09 +0000  >>> Copying /Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app 
+2020-07-16 15:27:09 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-07-16 15:27:09 +0000  3869 bytes for ./_CodeSignature/CodeResources
+2020-07-16 15:27:09 +0000  copying file ./PlugIns/emoji-widgetExtension.appex/_CodeSignature/CodeResources ... 
+2020-07-16 15:27:09 +0000  2284 bytes for ./PlugIns/emoji-widgetExtension.appex/_CodeSignature/CodeResources
+2020-07-16 15:27:09 +0000  copying file ./PlugIns/emoji-widgetExtension.appex/emoji_widget.intentdefinition ... 
+2020-07-16 15:27:09 +0000  1541 bytes for ./PlugIns/emoji-widgetExtension.appex/emoji_widget.intentdefinition
+2020-07-16 15:27:09 +0000  copying file ./PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension ... 
+2020-07-16 15:27:09 +0000  346416 bytes for ./PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension
+copying file ./PlugIns/emoji-widgetExtension.appex/embedded.mobileprovision ... 
+2020-07-16 15:27:09 +0000  7787 bytes for ./PlugIns/emoji-widgetExtension.appex/embedded.mobileprovision
+copying file ./PlugIns/emoji-widgetExtension.appex/Info.plist ... 
+2020-07-16 15:27:09 +0000  920 bytes for ./PlugIns/emoji-widgetExtension.appex/Info.plist
+2020-07-16 15:27:09 +0000  copying file ./Widget-Sample ... 
+2020-07-16 15:27:09 +0000  317488 bytes for ./Widget-Sample
+copying file ./emoji_widget.intentdefinition ... 
+2020-07-16 15:27:09 +0000  1541 bytes for ./emoji_widget.intentdefinition
+copying file ./embedded.mobileprovision ... 
+2020-07-16 15:27:09 +0000  7748 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2020-07-16 15:27:09 +0000  1208 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2020-07-16 15:27:09 +0000  8 bytes for ./PkgInfo
+2020-07-16 15:27:09 +0000  /usr/bin/ditto exited with 0
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-07-16 15:27:09 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-07-16 15:27:09 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionItemRemovalStep
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-07-16 15:27:09 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-07-16 15:27:09 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-07-16 15:27:09 +0000  Running /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension' '-l' '-o' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension'
+2020-07-16 15:27:09 +0000  /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-07-16 15:27:09 +0000  Running /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/Widget-Sample' '-l' '-o' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/Widget-Sample'
+2020-07-16 15:27:09 +0000  /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-07-16 15:27:09 +0000  Running /usr/bin/ditto '-V' '/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/BCSymbolMaps/48F5CAC5-300B-3B22-A898-73D15024EC17.bcsymbolmap' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/BCSymbolMaps/48F5CAC5-300B-3B22-A898-73D15024EC17.bcsymbolmap'
+2020-07-16 15:27:09 +0000  >>> Copying /Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/BCSymbolMaps/48F5CAC5-300B-3B22-A898-73D15024EC17.bcsymbolmap 
+2020-07-16 15:27:09 +0000  copying file ./48F5CAC5-300B-3B22-A898-73D15024EC17.bcsymbolmap ... 
+2020-07-16 15:27:09 +0000  38814 bytes for ./48F5CAC5-300B-3B22-A898-73D15024EC17.bcsymbolmap
+2020-07-16 15:27:09 +0000  /usr/bin/ditto exited with 0
+2020-07-16 15:27:09 +0000  Running /usr/bin/ditto '-V' '/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/BCSymbolMaps/E6E46D66-4F2C-3960-BABD-D560070002A2.bcsymbolmap' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/BCSymbolMaps/E6E46D66-4F2C-3960-BABD-D560070002A2.bcsymbolmap'
+2020-07-16 15:27:09 +0000  >>> Copying /Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/BCSymbolMaps/E6E46D66-4F2C-3960-BABD-D560070002A2.bcsymbolmap 
+2020-07-16 15:27:09 +0000  copying file ./E6E46D66-4F2C-3960-BABD-D560070002A2.bcsymbolmap ... 
+2020-07-16 15:27:09 +0000  32515 bytes for ./E6E46D66-4F2C-3960-BABD-D560070002A2.bcsymbolmap
+2020-07-16 15:27:09 +0000  /usr/bin/ditto exited with 0
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionSymbolsStep
+2020-07-16 15:27:09 +0000  Excluding symbols for emoji-widgetExtension.appex
+2020-07-16 15:27:09 +0000  Excluding symbols for Widget-Sample.app
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionAppThinningStep
+2020-07-16 15:27:09 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionArchThinningStep
+2020-07-16 15:27:09 +0000  Running /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension' '-verify_arch' 'arm64e'
+2020-07-16 15:27:09 +0000  /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-07-16 15:27:09 +0000  Skipping architecture thinning for item "emoji-widgetExtension" because arch "arm64e" wasn't found
+2020-07-16 15:27:09 +0000  Running /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/Widget-Sample' '-verify_arch' 'arm64e'
+2020-07-16 15:27:09 +0000  /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-07-16 15:27:09 +0000  Skipping architecture thinning for item "Widget-Sample" because arch "arm64e" wasn't found
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionODRStep
+2020-07-16 15:27:09 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-07-16 15:27:09 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fb163a997b0; bundleID='me.toghyiani.alireza.Widget-Sample.emoji-widget', path='<DVTFilePath:0x7fb1666e8c30:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb182fb3580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb16464eca0; name='Apple Development: Aref Tarrah (8SW3QVKSD3)', hash='7A4C4FB9F7D87F8AB0040F051D36D8447803213E', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fb1646d54c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-06 12:07:12 +0000''>', entitlements='{
+    "application-identifier" = "AJLMAG95WU.me.toghyiani.alireza.Widget-Sample.emoji-widget";
+    "com.apple.developer.team-identifier" = AJLMAG95WU;
+    "com.apple.security.application-groups" =     (
+        "group.me.toghyiani.alireza.Widget-Sample"
+    );
+    "get-task-allow" = 1;
+}', teamID='AJLMAG95WU', identifier='me.toghyiani.alireza.Widget-Sample.emoji-widget', executablePath='<DVTFilePath:0x7fb1614ba590:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension'>', hardenedRuntime='0'>'>
+2020-07-16 15:27:09 +0000  Running /usr/bin/xattr '-crs' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app'
+2020-07-16 15:27:10 +0000  /usr/bin/xattr exited with 0
+2020-07-16 15:27:10 +0000  Processing step: IDEDistributionCodesignStep
+2020-07-16 15:27:10 +0000  Entitlements for <IDEDistributionItem: 0x7fb163a997b0; bundleID='me.toghyiani.alireza.Widget-Sample.emoji-widget', path='<DVTFilePath:0x7fb1666e8c30:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb182fb3580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb1645b4600; name='Apple Development: Aref Tarrah (8SW3QVKSD3)', hash='7A4C4FB9F7D87F8AB0040F051D36D8447803213E', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fb1645e0c90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-06 12:07:12 +0000''>', entitlements='{
+    "application-identifier" = "AJLMAG95WU.me.toghyiani.alireza.Widget-Sample.emoji-widget";
+    "com.apple.developer.team-identifier" = AJLMAG95WU;
+    "com.apple.security.application-groups" =     (
+        "group.me.toghyiani.alireza.Widget-Sample"
+    );
+    "get-task-allow" = 1;
+}', teamID='AJLMAG95WU', identifier='me.toghyiani.alireza.Widget-Sample.emoji-widget', executablePath='<DVTFilePath:0x7fb1614ba590:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "AJLMAG95WU.me.toghyiani.alireza.Widget-Sample.emoji-widget";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = AJLMAG95WU;
+    "com.apple.security.application-groups" =     (
+        "group.me.toghyiani.alireza.Widget-Sample"
+    );
+    "get-task-allow" = 0;
+}
+2020-07-16 15:27:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb163a997b0; bundleID='me.toghyiani.alireza.Widget-Sample.emoji-widget', path='<DVTFilePath:0x7fb1666e8c30:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb182fb3580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb1645e7a50; name='Apple Development: Aref Tarrah (8SW3QVKSD3)', hash='7A4C4FB9F7D87F8AB0040F051D36D8447803213E', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fb1645a3ce0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-06 12:07:12 +0000''>', entitlements='{
+    "application-identifier" = "AJLMAG95WU.me.toghyiani.alireza.Widget-Sample.emoji-widget";
+    "com.apple.developer.team-identifier" = AJLMAG95WU;
+    "com.apple.security.application-groups" =     (
+        "group.me.toghyiani.alireza.Widget-Sample"
+    );
+    "get-task-allow" = 1;
+}', teamID='AJLMAG95WU', identifier='me.toghyiani.alireza.Widget-Sample.emoji-widget', executablePath='<DVTFilePath:0x7fb1614ba590:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension'>', hardenedRuntime='0'>'> to: /var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/entitlements~~~Pibfhm
+2020-07-16 15:27:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1613C91B14838EA2B36AB65682B0211301F2D4A1' '--entitlements' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/entitlements~~~Pibfhm' '--preserve-metadata=identifier,flags,runtime' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex'
+2020-07-16 15:27:11 +0000  /var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex: signed bundle with Mach-O thin (arm64) [me.toghyiani.alireza.Widget-Sample.emoji-widget]
+2020-07-16 15:27:11 +0000  /usr/bin/codesign exited with 0
+2020-07-16 15:27:11 +0000  Entitlements for <IDEDistributionItem: 0x7fb163d8aef0; bundleID='me.toghyiani.alireza.Widget-Sample', path='<DVTFilePath:0x7fb164769d80:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb161eb3eb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb16461c270; name='Apple Development: Aref Tarrah (8SW3QVKSD3)', hash='7A4C4FB9F7D87F8AB0040F051D36D8447803213E', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fb164692860>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-06 12:07:12 +0000''>', entitlements='{
+    "application-identifier" = "AJLMAG95WU.me.toghyiani.alireza.Widget-Sample";
+    "com.apple.developer.team-identifier" = AJLMAG95WU;
+    "com.apple.security.application-groups" =     (
+        "group.me.toghyiani.alireza.Widget-Sample"
+    );
+    "get-task-allow" = 1;
+}', teamID='AJLMAG95WU', identifier='me.toghyiani.alireza.Widget-Sample', executablePath='<DVTFilePath:0x7fb161364da0:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/Widget-Sample'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "AJLMAG95WU.me.toghyiani.alireza.Widget-Sample";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = AJLMAG95WU;
+    "com.apple.security.application-groups" =     (
+        "group.me.toghyiani.alireza.Widget-Sample"
+    );
+    "get-task-allow" = 0;
+}
+2020-07-16 15:27:11 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb163d8aef0; bundleID='me.toghyiani.alireza.Widget-Sample', path='<DVTFilePath:0x7fb164769d80:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fb161eb3eb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fb1645b4600; name='Apple Development: Aref Tarrah (8SW3QVKSD3)', hash='7A4C4FB9F7D87F8AB0040F051D36D8447803213E', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fb1645d4a20>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-06 12:07:12 +0000''>', entitlements='{
+    "application-identifier" = "AJLMAG95WU.me.toghyiani.alireza.Widget-Sample";
+    "com.apple.developer.team-identifier" = AJLMAG95WU;
+    "com.apple.security.application-groups" =     (
+        "group.me.toghyiani.alireza.Widget-Sample"
+    );
+    "get-task-allow" = 1;
+}', teamID='AJLMAG95WU', identifier='me.toghyiani.alireza.Widget-Sample', executablePath='<DVTFilePath:0x7fb161364da0:'/Users/reza/Library/Developer/Xcode/Archives/2020-07-16/emoji-widgetExtension 7-16-20, 7.55 PM.xcarchive/Products/Applications/Widget-Sample.app/Widget-Sample'>', hardenedRuntime='0'>'> to: /var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/entitlements~~~2SrPj8
+2020-07-16 15:27:11 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1613C91B14838EA2B36AB65682B0211301F2D4A1' '--entitlements' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/entitlements~~~2SrPj8' '--preserve-metadata=identifier,flags,runtime' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app'
+2020-07-16 15:27:13 +0000  /var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app: signed app bundle with Mach-O thin (arm64) [me.toghyiani.alireza.Widget-Sample]
+2020-07-16 15:27:13 +0000  /usr/bin/codesign exited with 0
+2020-07-16 15:27:13 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-07-16 15:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-07-16 15:27:13 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-07-16 15:27:13 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-07-16 15:27:13 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root' '/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Packages/Widget-Sample.ipa'
+2020-07-16 15:27:13 +0000  >>> Copying /var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root 
+2020-07-16 15:27:13 +0000  copying file ./BCSymbolMaps/48F5CAC5-300B-3B22-A898-73D15024EC17.bcsymbolmap ... 
+2020-07-16 15:27:13 +0000  38814 bytes for ./BCSymbolMaps/48F5CAC5-300B-3B22-A898-73D15024EC17.bcsymbolmap
+copying file ./BCSymbolMaps/E6E46D66-4F2C-3960-BABD-D560070002A2.bcsymbolmap ... 
+32515 bytes for ./BCSymbolMaps/E6E46D66-4F2C-3960-BABD-D560070002A2.bcsymbolmap
+copying file ./Payload/Widget-Sample.app/_CodeSignature/CodeResources ... 
+3869 bytes for ./Payload/Widget-Sample.app/_CodeSignature/CodeResources
+copying file ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/_CodeSignature/CodeResources ... 
+2284 bytes for ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/_CodeSignature/CodeResources
+copying file ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji_widget.intentdefinition ... 
+1541 bytes for ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji_widget.intentdefinition
+copying file ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension ... 
+2020-07-16 15:27:13 +0000  272576 bytes for ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/emoji-widgetExtension
+copying file ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/embedded.mobileprovision ... 
+2020-07-16 15:27:13 +0000  9539 bytes for ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/embedded.mobileprovision
+copying file ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/Info.plist ... 
+2020-07-16 15:27:13 +0000  920 bytes for ./Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex/Info.plist
+copying file ./Payload/Widget-Sample.app/Widget-Sample ... 
+2020-07-16 15:27:13 +0000  248144 bytes for ./Payload/Widget-Sample.app/Widget-Sample
+copying file ./Payload/Widget-Sample.app/emoji_widget.intentdefinition ... 
+2020-07-16 15:27:13 +0000  1541 bytes for ./Payload/Widget-Sample.app/emoji_widget.intentdefinition
+copying file ./Payload/Widget-Sample.app/embedded.mobileprovision ... 
+2020-07-16 15:27:13 +0000  9500 bytes for ./Payload/Widget-Sample.app/embedded.mobileprovision
+copying file ./Payload/Widget-Sample.app/Info.plist ... 
+2020-07-16 15:27:13 +0000  1208 bytes for ./Payload/Widget-Sample.app/Info.plist
+copying file ./Payload/Widget-Sample.app/PkgInfo ... 
+8 bytes for ./Payload/Widget-Sample.app/PkgInfo
+2020-07-16 15:27:13 +0000  /usr/bin/ditto exited with 0
+2020-07-16 15:27:13 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-07-16 15:27:13 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-07-16 15:27:13 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-07-16 15:27:13 +0000  IDEDistributionItem init <DVTFilePath:0x7fb15ee137c0:'/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app/PlugIns/emoji-widgetExtension.appex'>
+2020-07-16 15:27:13 +0000  IDEDistributionItem init <DVTFilePath:0x7fb1647e24a0:'/var/folders/pd/ky2pd61n6vz3xvzqt93g_k2c0000gn/T/XcodeDistPipeline.~~~RcAA96/Root/Payload/Widget-Sample.app'>
+2020-07-16 15:27:14 +0000  Processing step: IDEDistributionCreateManifestStep
+2020-07-16 15:27:14 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
